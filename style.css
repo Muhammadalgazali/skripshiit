@@ -1,0 +1,140 @@
+
+          /* Additional custom styling */
+              .gray {
+                background-color: #6c757d;
+                /* Bootstrap: secondary */
+              }
+
+              .green {
+                background-color: #28a745;
+                /* Bootstrap: success */
+              }
+
+              .yellow {
+                background-color: #ffc107;
+                /* Bootstrap: warning */
+              }
+
+              .red {
+                background-color: #dc3545;
+                /* Bootstrap: danger */
+              }
+
+              .blue {
+                background-color: #007bff;
+                /* Bootstrap: primary */
+                color: white;
+                /* White text on blue background */
+              }
+
+              /* Additional styling for summary table */
+              #summaryTable {
+                margin-top: 20px;
+              }
+
+              /* Custom styling for hover effect */
+              .table-hover tbody tr:hover {
+                background-color: #f5f5f5;
+                /* Hover background color */
+              }
+
+              /* Custom border and padding for table */
+              .table {
+                border-collapse: collapse;
+                /* Combine cell borders */
+                width: 100%;
+                /* Table width */
+                border-radius: 8px;
+                /* Rounded corners */
+                overflow: hidden;
+                /* Hide overflow */
+              }
+
+              .table th,
+              .table td {
+                border: 1px solid #ddd;
+                /* Add border to cells */
+                padding: 8px;
+                /* Cell padding */
+                vertical-align: middle;
+                /* Vertical alignment */
+                font-size: 14px;
+                /* Font size */
+              }
+
+              .table th {
+                background-color: #f2f2f2;
+                /* Header background color */
+                text-transform: uppercase;
+                /* Uppercase text */
+                font-weight: 500;
+                /* Bold font weight */
+
+              }
+
+              .table tfoot th {
+                background-color: #343a40;
+                /* Footer background color */
+                color: #fff;
+                /* Footer text color */
+              }
+
+              /* Additional styling for container */
+              .container {
+                padding-top: 20px;
+                /* Container top padding */
+              }
+
+              /* Additional styling for page title */
+              .page-title {
+                font-size: 24px;
+                /* Font size */
+                font-weight: 500;
+                /* Bold font weight */
+                margin-bottom: 20px;
+                /* Bottom margin */
+                color: #202124;
+                /* Text color */
+              }
+
+              /* Additional styling for section title */
+              .section-title {
+                font-size: 18px;
+                /* Font size */
+                font-weight: 500;
+                /* Bold font weight */
+                margin-bottom: 15px;
+                /* Bottom margin */
+                color: #5f6368;
+                /* Text color */
+              }
+
+              /* Additional styling for nav tabs container */
+              .nav-tabs-container {
+                padding-left: 15px;
+                /* Left padding */
+              }
+
+              a {
+                text-decoration: none;
+                /* Menghapus garis bawah */
+              }
+
+              th.nim-column {
+                width: 10%;
+                overflow: hidden;
+              }
+
+              .content-image {
+                height: 100%;
+                /* Atur tinggi gambar sesuai kebutuhan Anda */
+
+              }
+
+              .center-image {
+                  width: fit-content; /* Lebar gambar mengisi lebar parent */
+                  height: fit-content; /* Tinggi gambar 80% dari tinggi parent */
+                  /* Memastikan gambar tetap utuh dan terlihat proporsional */
+              }
+
+              
